@@ -1,0 +1,51 @@
+.main1{ 
+    padding: 50px;
+    background-color:hsl(0, 0%, 8%);
+    border-radius: 18px;
+    
+
+}
+
+
+
+html{
+    background-color: black;
+}
+
+.sec1{
+    text-align: center;
+    color: white;
+
+}
+
+
+.sec2{
+    text-align: center;
+     color: hsl(0, 0%, 100%);
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 12px;
+    background-color:   rgb(52, 48, 48); 
+    
+    
+
+}
+img{
+    border-radius: 50%;
+    width: 90px;
+}
+
+#h4{
+    color:hsl(75, 94%, 57%);
+}
+
+#h5{
+     
+     color:  hsl(0, 0%, 100%);
+}
+.attribution{
+    position: fixed;
+    bottom: 0;
+    
+
+}
